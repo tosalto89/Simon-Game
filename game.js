@@ -1,4 +1,7 @@
-// creater an empty log for the color pattern
+//Instructions
+alert ("Correctly repeat a longer and longer sequence of signals.");
+
+// create an empty log for the color pattern
 let gamePattern = [];
 let userClickedPattern = [];
 // storing the audio files
